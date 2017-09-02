@@ -1,0 +1,4 @@
+def get_summ(word, num):
+	return word + str(num)
+
+print(get_summ('Hello', 2))
